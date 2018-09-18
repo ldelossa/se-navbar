@@ -28,7 +28,7 @@ class Login extends Component {
 					<Input placeholder='username'/>
 					<br/>
 					<br/>
-					<Input placeholder='password'/>
+					<Input type='password' placeholder='password'/>
 					<br/>
 					<br/>
 					<div style={submitButtonStyle}>
